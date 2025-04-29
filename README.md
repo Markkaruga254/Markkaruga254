@@ -1,10 +1,1 @@
-- 👋 Hi, I’m @Markkaruga254
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me @mkmark938@gmail.com
-
-<!---
-Markkaruga254/Markkaruga254 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Cybersecurity learner documenting my journey in public. CTFs, pentesting labs & real tools daily. Preparing for freelance & bug bounty work.
