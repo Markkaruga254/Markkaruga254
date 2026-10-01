@@ -27,15 +27,6 @@
 ## 🎯 Practice
 - TryHackMe: [@Markkaruga254](https://tryhackme.com/p/Markkaruga254)
 
-## 📊 GitHub Activity
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Markkaruga254/Markkaruga254/main/profile-summary-card-output/tokyonight/0-profile-details.svg" />
-</p>
-<p align="center">
-  <img height="200" src="https://raw.githubusercontent.com/Markkaruga254/Markkaruga254/main/profile-summary-card-output/tokyonight/3-stats.svg" />
-  <img height="200" src="https://raw.githubusercontent.com/Markkaruga254/Markkaruga254/main/profile-summary-card-output/tokyonight/4-productive-time.svg" />
-</p>
-
 ## 📫 Connect
 - GitHub: [@Markkaruga254](https://github.com/Markkaruga254)
 - TryHackMe: [@Markkaruga254](https://tryhackme.com/p/Markkaruga254)
