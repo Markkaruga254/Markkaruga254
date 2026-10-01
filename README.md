@@ -27,10 +27,13 @@
 ## 🎯 Practice
 - TryHackMe: [@Markkaruga254](https://tryhackme.com/p/Markkaruga254)
 
-## 📊 GitHub Stats
-<p>
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Markkaruga254&show_icons=true&theme=tokyonight" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Markkaruga254&layout=compact&theme=tokyonight" />
+## 📊 GitHub Activity
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Markkaruga254/Markkaruga254/main/profile-summary-card-output/tokyonight/0-profile-details.svg" />
+</p>
+<p align="center">
+  <img height="200" src="https://raw.githubusercontent.com/Markkaruga254/Markkaruga254/main/profile-summary-card-output/tokyonight/3-stats.svg" />
+  <img height="200" src="https://raw.githubusercontent.com/Markkaruga254/Markkaruga254/main/profile-summary-card-output/tokyonight/4-productive-time.svg" />
 </p>
 
 ## 📫 Connect
