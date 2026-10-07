@@ -17,7 +17,7 @@
 - 🔴 **Offensive roots**: red team labs that inform how I defend
 
 ## 🤝 Community
-- ☁️ **Cloud Track Lead, [GDG on Campus TUM](https://gdg.community.dev/)**: learning in public, teaching peers, and running cloud sessions for the 2026/2027 team
+- ☁️ **Cloud Track Lead, [GDG on Campus TUM](https://gdg.community.dev/dashboard/gdg-on-campus-technical-university-of-mombasa-mombasa-kenya/home/)**: learning in public, teaching peers, and running cloud sessions for the 2026/2027 team
 
 ## 🛠️ Tech Stack
 <p>
