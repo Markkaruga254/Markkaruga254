@@ -1,5 +1,5 @@
-<h1 align="center">Hi, I'm Mark 👋</h1>
-<h3 align="center">SOC Analyst (Tier 2) · Transitioning into Cloud Security · Mombasa, Kenya 🇰🇪</h3>
+<h1 align="center">Hi, I'm Mark </h1>
+<h3 align="center">SOC Analyst (Tier 2) · Transitioning into Cloud Security ·</h3>
 
 <p align="center">
   I investigate threats, and I'm moving that skill set into securing cloud infrastructure.
