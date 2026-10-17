@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Mark Karuga👋</h1>
+<h1 align="center">Hi, I'm Mark Karuga</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=700&lines=SOC+Analyst+(Tier+2)+%E2%86%92+Cloud+Security;Security-Minded+Software+Engineer;Backend+%C2%B7+APIs+%C2%B7+ML+%C2%B7+Cloud" alt="Typing animation" />
@@ -16,22 +16,22 @@
 
 ---
 
-## 🎯 What I'm focused on
+## What I'm focused on
 
 | | |
 |---|---|
-| ☁️ **Cloud security** | AWS first, then Azure and GCP: IAM, network security, misconfiguration hunting |
-| ⚙️ **Backend & APIs** | Problem-driven API design with authentication, authorization, input validation and rate limiting built in |
-| 🔁 **DevSecOps** | Terraform, CI/CD with security gates, container and Kubernetes hardening |
-| 🛡️ **SOC operations** | Alert triage, incident investigation, detection with Wazuh and SIEM tooling |
-| 🤖 **Applied ML** | ML where it makes systems smarter, plus securing the pipelines behind it |
-| 🔴 **Offensive roots** | Red team labs that shape how I defend and how I write code |
+| **Cloud security** | AWS first, then Azure and GCP: IAM, network security, misconfiguration hunting |
+| **Backend & APIs** | Problem-driven API design with authentication, authorization, input validation and rate limiting built in |
+| **DevSecOps** | Terraform, CI/CD with security gates, container and Kubernetes hardening |
+| **SOC operations** | Alert triage, incident investigation, detection with Wazuh and SIEM tooling |
+| **Applied ML** | ML where it makes systems smarter, plus securing the pipelines behind it |
+| **Offensive roots** | Red team labs that shape how I defend and how I write code |
 
-## 🤝 Community
+##  Community
 
-☁️ **Cloud Track Lead, [GDG on Campus TUM](https://gdg.community.dev/dashboard/gdg-on-campus-technical-university-of-mombasa-mombasa-kenya/home/)**: learning in public, teaching peers, and running cloud sessions for the 2026/2027 team.
+ **Cloud Track Lead, Google Developers Group on Campus-Technical University of Mombasa[GDG on Campus TUM](https://gdg.community.dev/dashboard/gdg-on-campus-technical-university-of-mombasa-mombasa-kenya/home/)**: learning in public, teaching peers, and running cloud sessions for the 2026/2027 team.
 
-## 🧰 Tech stack
+##  Tech stack
 
 <details open>
 <summary><b>Cloud & DevOps</b></summary>
