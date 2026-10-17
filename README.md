@@ -28,7 +28,7 @@
 
 ##  Community
 
- **Cloud Track Lead, Google Developers Group on Campus-Technical University of Mombasa:[GDG on Campus TUM](https://gdg.community.dev/dashboard/gdg-on-campus-technical-university-of-mombasa-mombasa-kenya/home/)**: learning in public, teaching peers, and running cloud sessions for the 2026/2027 team.
+ **Cloud Track Lead, Google Developers Group on Campus-Technical University of Mombasa: [GDG on Campus TUM](https://gdg.community.dev/dashboard/gdg-on-campus-technical-university-of-mombasa-mombasa-kenya/home/)**: learning in public, teaching peers, and running cloud sessions for the 2026/2027 team.
 
 ##  Tech stack
 
@@ -49,5 +49,4 @@
 <p>
   <a href="mailto:mkmark938@gmail.com">mkmark938@gmail.com</a> ·
   <a href="https://tryhackme.com/p/Markkaruga254">TryHackMe</a> ·
-  <a href="https://github.com/Markkaruga254">GitHub</a>
 </p>
