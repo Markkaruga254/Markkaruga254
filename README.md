@@ -10,24 +10,20 @@
   <a href="mailto:mkmark938@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"/></a>
 </p>
 
-## 🔭 What I'm focused on
-- 🛡️ **SOC operations**: alert triage, incident investigation, and detection with Wazuh and SIEM tooling
-- ☁️ **Cloud security**: AWS first, then Azure and GCP, covering IAM, network security, and misconfiguration hunting
-- ⚙️ **DevSecOps**: Terraform, CI/CD pipelines with security gates, container and Kubernetes hardening
-- 🔴 **Offensive roots**: red team labs that inform how I defend
+## What I'm focused on
+- **SOC operations**: alert triage, incident investigation, and detection with Wazuh and SIEM tooling
+- **Cloud security**: AWS first, then Azure and GCP, covering IAM, network security, and misconfiguration hunting
+- **DevSecOps**: Terraform, CI/CD pipelines with security gates, container and Kubernetes hardening
+- **Offensive roots**: red team labs that inform how I defend
 
-## 🤝 Community
+## Community
 - ☁️ **Cloud Track Lead, [GDG on Campus TUM](https://gdg.community.dev/dashboard/gdg-on-campus-technical-university-of-mombasa-mombasa-kenya/home/)**: learning in public, teaching peers, and running cloud sessions for the 2026/2027 team
 
-## 🛠️ Tech Stack
+##  Tech Stack
 <p>
   <img src="https://skillicons.dev/icons?i=aws,azure,gcp,terraform,docker,kubernetes,githubactions,gitlab,linux,bash,python&perline=11" />
 </p>
 
-## 🎯 Practice
-- TryHackMe: [@Markkaruga254](https://tryhackme.com/p/Markkaruga254)
 
-## 📫 Connect
-- GitHub: [@Markkaruga254](https://github.com/Markkaruga254)
-- TryHackMe: [@Markkaruga254](https://tryhackme.com/p/Markkaruga254)
+## Connect
 - Email: mkmark938@gmail.com
