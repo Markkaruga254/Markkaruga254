@@ -10,7 +10,6 @@
 
 <p align="center">
   <a href="https://tryhackme.com/p/Markkaruga254"><img src="https://img.shields.io/badge/TryHackMe-Profile-212C42?style=for-the-badge&logo=tryhackme&logoColor=white"/></a>
-  <a href="https://github.com/Markkaruga254"><img src="https://img.shields.io/badge/GitHub-Markkaruga254-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
   <a href="mailto:mkmark938@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
@@ -29,7 +28,7 @@
 
 ##  Community
 
- **Cloud Track Lead, Google Developers Group on Campus-Technical University of Mombasa[GDG on Campus TUM](https://gdg.community.dev/dashboard/gdg-on-campus-technical-university-of-mombasa-mombasa-kenya/home/)**: learning in public, teaching peers, and running cloud sessions for the 2026/2027 team.
+ **Cloud Track Lead, Google Developers Group on Campus-Technical University of Mombasa:[GDG on Campus TUM](https://gdg.community.dev/dashboard/gdg-on-campus-technical-university-of-mombasa-mombasa-kenya/home/)**: learning in public, teaching peers, and running cloud sessions for the 2026/2027 team.
 
 ##  Tech stack
 
