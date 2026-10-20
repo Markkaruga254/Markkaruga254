@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0B3D91,100:2F81F7&height=170&section=header&text=Mark%20Karuga&fontSize=44&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Security-Minded%20Software%20Engineer&descSize=18&descAlignY=60" alt="Mark Karuga, Security-Minded Software Engineer" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0B3D91,100:2F81F7&height=170&section=header&text=Mark%20Karuga&fontSize=44&fontColor=ffffff&fontAlignY=38&animation=twinkling&desc=Security-Minded%20Software%20Engineer&descSize=18&descAlignY=60" alt="Mark Karuga, Security-Minded Software Engineer" />
 </div>
 
 <p align="center">
@@ -54,11 +54,22 @@ I help fellow students upskill in cloud: running sessions, guiding hands-on lear
 <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
 </details>
 
+## GitHub activity
+
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Markkaruga254&bg_color=0D1117&color=2F81F7&line=2F81F7&point=FFFFFF&area=true&area_color=2F81F7&hide_border=true&radius=8&custom_title=Contribution%20activity" alt="GitHub contribution activity graph" />
+</p>
+
+<p align="center">
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=Markkaruga254&show_icons=true&hide_border=true&bg_color=0D1117&title_color=2F81F7&icon_color=2F81F7&text_color=C9D1D9&border_radius=8" alt="GitHub stats" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Markkaruga254&layout=compact&hide_border=true&bg_color=0D1117&title_color=2F81F7&text_color=C9D1D9&border_radius=8" alt="Top languages" />
+</p>
+
 ## Connect
 
 <p>
   <a href="mailto:mkmark938@gmail.com">mkmark938@gmail.com</a> ·
-  <a href="https://gdg.community.dev/dashboard/gdg-on-campus-technical-university-of-mombasa-mombasa-kenya/home/">GDG on Campus TUM</a>
+  <a href="https://gdg.community.dev/gdg-on-campus-technical-university-of-mombasa-mombasa-kenya/">GDG on Campus TUM</a>
 </p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0B3D91,100:2F81F7&height=90&section=footer" alt="" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0B3D91,100:2F81F7&height=90&section=footer&animation=waving" alt="" />
