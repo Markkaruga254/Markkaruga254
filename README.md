@@ -34,7 +34,7 @@ I'm a software engineer first, and I treat security as part of engineering rathe
 
 ## Community and teaching
 
-**Cloud Track Lead, [Google Developer Groups on Campus, Technical University of Mombasa](https://gdg.community.dev/dashboard/gdg-on-campus-technical-university-of-mombasa-mombasa-kenya/home/)** (2026/2027 team).
+**Cloud Track Lead, [Google Developer Groups on Campus, Technical University of Mombasa](https://gdg.community.dev/gdg-on-campus-technical-university-of-mombasa-mombasa-kenya/)** (2026/2027 team).
 
 I help fellow students upskill in cloud: running sessions, guiding hands-on learning and learning in public alongside them. Teaching is also how I keep my own fundamentals sharp.
 
