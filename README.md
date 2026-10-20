@@ -1,36 +1,44 @@
-<h1 align="center">Hi, I'm Mark Karuga</h1>
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0B3D91,100:2F81F7&height=170&section=header&text=Mark%20Karuga&fontSize=44&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Security-Minded%20Software%20Engineer&descSize=18&descAlignY=60" alt="Mark Karuga, Security-Minded Software Engineer" />
+</div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=700&lines=SOC+Analyst+(Tier+2)+%E2%86%92+Cloud+Security;Security-Minded+Software+Engineer;Backend+%C2%B7+APIs+%C2%B7+ML+%C2%B7+Cloud" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2800&pause=1200&color=2F81F7&center=true&vCenter=true&width=640&height=40&lines=Upskilling+into+Cloud+Security;APIs+%C2%B7+ML+%C2%B7+DevOps+%C2%B7+Cloud;Cloud+Track+Lead+at+GDG+on+Campus+TUM" alt="Typing animation" />
 </p>
 
 <p align="center">
-  I build backend systems and APIs that solve real problems, and I secure the cloud infrastructure they run on.
+  Computer Science student at the Technical University of Mombasa.<br/>
+  I build backend systems, APIs and ML models, and I'm growing into cloud security so I can secure what I build and where it runs.
 </p>
 
 <p align="center">
-  <a href="https://tryhackme.com/p/Markkaruga254"><img src="https://img.shields.io/badge/TryHackMe-Profile-212C42?style=for-the-badge&logo=tryhackme&logoColor=white"/></a>
   <a href="mailto:mkmark938@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://gdg.community.dev/dashboard/gdg-on-campus-technical-university-of-mombasa-mombasa-kenya/home/"><img src="https://img.shields.io/badge/GDG_on_Campus-TUM-4285F4?style=for-the-badge&logo=googledeveloper&logoColor=white"/></a>
 </p>
 
 ---
 
-## What I'm focused on
+## What I do
 
 | | |
 |---|---|
-| **Cloud security** | AWS first, then Azure and GCP: IAM, network security, misconfiguration hunting |
-| **Backend & APIs** | Problem-driven API design with authentication, authorization, input validation and rate limiting built in |
-| **DevSecOps** | Terraform, CI/CD with security gates, container and Kubernetes hardening |
-| **SOC operations** | Alert triage, incident investigation, detection with Wazuh and SIEM tooling |
-| **Applied ML** | ML where it makes systems smarter, plus securing the pipelines behind it |
-| **Offensive roots** | Red team labs that shape how I defend and how I write code |
+| **Backend & APIs** | Design and build APIs with Python and FastAPI. Authentication, authorization, input validation and rate limiting are part of the design from day one, not added later. |
+| **Machine learning** | Build, train and fine-tune models with PyTorch and Hugging Face, from data preparation and training to evaluation and serving a model behind an API. |
+| **DevOps** | Containerize with Docker, automate builds and deployments with CI/CD (GitHub Actions, GitLab CI), and manage infrastructure as code with Terraform. |
+| **Cloud engineering** | Deploy and run workloads on AWS, with Azure and GCP next. Working with IAM, networking and storage. |
+| **Cloud security** | Where I'm heading: least-privilege IAM, network security, misconfiguration detection, and securing CI/CD pipelines, containers and ML workloads. |
 
-##  Community
+## How I think about security
 
- **Cloud Track Lead, Google Developers Group on Campus-Technical University of Mombasa: [GDG on Campus TUM](https://gdg.community.dev/dashboard/gdg-on-campus-technical-university-of-mombasa-mombasa-kenya/home/)**: learning in public, teaching peers, and running cloud sessions for the 2026/2027 team.
+I'm a software engineer first, and I treat security as part of engineering rather than a separate step. That means threat modeling a design before building it, keeping secrets and permissions tight, putting security checks in the pipeline, and asking how a system could be abused as well as how it works.
 
-##  Tech stack
+## Community and teaching
+
+**Cloud Track Lead, [Google Developer Groups on Campus, Technical University of Mombasa](https://gdg.community.dev/dashboard/gdg-on-campus-technical-university-of-mombasa-mombasa-kenya/home/)** (2026/2027 team).
+
+I help fellow students upskill in cloud: running sessions, guiding hands-on learning and learning in public alongside them. Teaching is also how I keep my own fundamentals sharp.
+
+## Tech stack
 
 <details open>
 <summary><b>Cloud & DevOps</b></summary>
@@ -42,11 +50,15 @@
 <summary><b>Backend & ML</b></summary>
 <br>
 <img src="https://skillicons.dev/icons?i=python,fastapi,postgres,pytorch" />
+<br><br>
+<img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
 </details>
 
-## 📫 Connect
+## Connect
 
 <p>
   <a href="mailto:mkmark938@gmail.com">mkmark938@gmail.com</a> ·
-  <a href="https://tryhackme.com/p/Markkaruga254">TryHackMe</a> ·
+  <a href="https://gdg.community.dev/dashboard/gdg-on-campus-technical-university-of-mombasa-mombasa-kenya/home/">GDG on Campus TUM</a>
 </p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0B3D91,100:2F81F7&height=90&section=footer" alt="" />
