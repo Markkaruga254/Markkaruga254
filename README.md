@@ -61,7 +61,7 @@ I help fellow students upskill in cloud: running sessions, guiding hands-on lear
 </p>
 
 <p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=Markkaruga254&show_icons=true&hide_border=true&bg_color=0D1117&title_color=2F81F7&icon_color=2F81F7&text_color=C9D1D9&border_radius=8" alt="GitHub stats" />
+  <img height="150" src="https://github-stats-extended.vercel.app/api?username=Markkaruga254&show_icons=true&hide_border=true&bg_color=0D1117&title_color=2F81F7&icon_color=2F81F7&text_color=C9D1D9&border_radius=8" alt="GitHub stats" />
   <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Markkaruga254&layout=compact&hide_border=true&bg_color=0D1117&title_color=2F81F7&text_color=C9D1D9&border_radius=8" alt="Top languages" />
 </p>
 
