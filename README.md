@@ -1,21 +1,13 @@
-# Mark Karuga
+# Hey, I'm Mark 👋
 
-**Computer Science Student | Aspiring Software & Cloud Security Engineer**
+I'm a Computer Science student at the Technical University of Mombasa who enjoys building software and figuring out how things work under the hood.
 
-I'm a Computer Science student at the Technical University of Mombasa, interested in software engineering, cloud computing, machine learning and cybersecurity.
+Lately, I've been spending more time exploring cloud infrastructure, DevOps and security, with a long-term interest in cloud security.
 
-Currently, I'm focused on strengthening my engineering fundamentals, building practical projects and documenting what I learn along the way.
+I also serve as the **Cloud Track Lead at GDG on Campus TUM**, where I get to learn, build and share knowledge with other students.
 
-I'm also the Cloud Track Lead at **GDG on Campus – Technical University of Mombasa**, where I help fellow students explore cloud technologies through practical learning.
+Most of what you'll find here is a reflection of what I'm learning and building along the way.
 
-### What I'm currently exploring
-- Software engineering and backend development
-- Cloud infrastructure and DevOps
-- Machine learning
-- Cloud and application security
-
-### Community
-**Cloud Track Lead** — [GDG on Campus TUM](https://gdg.community.dev/gdg-on-campus-technical-university-of-mombasa-mombasa-kenya/)
-
-### Connect
-[Email](mailto:mkmark938@gmail.com) · [GDG on Campus TUM](https://gdg.community.dev/gdg-on-campus-technical-university-of-mombasa-mombasa-kenya/)
+### Find me around
+- [GDG on Campus TUM](https://gdg.community.dev/gdg-on-campus-technical-university-of-mombasa-mombasa-kenya/)
+- [Email](mailto:mkmark938@gmail.com)
