@@ -1,20 +1,26 @@
-# 💫 About Me
+# Hey, I'm Mark 👋
 
-yo, I'm Mark. I enjoy building things and learning how software works.
+I'm currently upskilling in **Cloud Engineering**, with a growing focus on **DevSecOps**. I believe in learning by building, so I spend most of my time shipping projects and getting hands-on with the things I'm learning.
 
-## 🌐 Socials
+I'm particularly interested in backend development, building APIs, deploying machine learning models, and the infrastructure behind reliable systems — from CI/CD and Python automation to the security and engineering practices that bring everything together.
+
+This profile is a collection of things I'm building, learning, and experimenting with along the way.
+
+Outside of my own projects, I serve as the **Cloud Track Lead** at [Google Developer Groups on Campus – Technical University of Mombasa](https://gdg.community.dev/gdg-on-campus-technical-university-of-mombasa-mombasa-kenya/), helping students explore and grow their cloud engineering skills.
+
+## 🌐 Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/Mark-karuga)
-[![X](https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white)](https://x.com/_Mrmckay)
+[![X](https://img.shields.io/badge/X-000000?style=flat&logo=X&logoColor=white)](https://x.com/_Mrmckay)
 
-## 📊 GitHub Stats
+## 📈 GitHub Activity
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Markkaruga254&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions.dark.svg" />
+  <img src="./assets/contributions.light.svg" alt="GitHub contribution calendar with current and longest streaks" width="100%" />
+</picture>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Markkaruga254&theme=github-dark-blue&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Markkaruga254&layout=compact&theme=github_dark&hide_border=true)
-
----
-
-![Profile Views](https://komarev.com/ghpvc/?username=Markkaruga254&style=flat&color=grey)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/lifetime.dark.svg" />
+  <img src="./assets/lifetime.light.svg" alt="GitHub lifetime contribution history" width="100%" />
+</picture>
