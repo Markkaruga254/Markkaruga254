@@ -16,11 +16,11 @@ Outside of my own projects, I serve as the **Cloud Track Lead** at [Google Devel
 ## 📈 GitHub Activity
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions.dark.svg" />
-  <img src="./assets/contributions.light.svg" alt="GitHub contribution calendar with current and longest streaks" width="100%" />
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/overview.dark.svg" />
+  <img src="./assets/overview.light.svg" alt="GitHub profile statistics, including lifetime contributions" width="100%" />
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/lifetime.dark.svg" />
-  <img src="./assets/lifetime.light.svg" alt="GitHub lifetime contribution history" width="100%" />
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions.dark.svg" />
+  <img src="./assets/contributions.light.svg" alt="GitHub contribution calendar with current and longest streaks" width="100%" />
 </picture>
