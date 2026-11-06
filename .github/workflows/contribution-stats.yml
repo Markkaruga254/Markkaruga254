@@ -2,8 +2,6 @@ name: Update contribution and streak cards
 
 on:
   push:
-    paths:
-      - ".github/workflows/contribution-stats.yml"
   schedule:
     - cron: "0 3 * * *"
   workflow_dispatch:
