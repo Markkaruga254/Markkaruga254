@@ -13,3 +13,14 @@ Outside of my own projects, I serve as the **Cloud Track Lead** at [Google Devel
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/Mark-karuga)
 [![X](https://img.shields.io/badge/X-000000?style=flat&logo=X&logoColor=white)](https://x.com/_Mrmckay)
 
+## 📈 GitHub Activity
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/overview.dark.svg" />
+  <img src="./assets/overview.light.svg" alt="GitHub profile statistics, including lifetime contributions" width="100%" />
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions.dark.svg" />
+  <img src="./assets/contributions.light.svg" alt="GitHub contribution calendar with current and longest streaks" width="100%" />
+</picture>
